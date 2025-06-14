@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NORDIK IMPORT AL - Produkte për Fëmijë</title>
+  <title>NORDIC IMPORT AL - Produkte për Fëmijë</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <div class="logo">
-      <h1>NORDIK IMPORT AL</h1>
+      <h1>NORDIC IMPORT AL</h1>
     </div>
     <nav>
       <ul>
@@ -58,13 +58,13 @@
   <section id="contact" class="contact">
     <h2>Kontaktoni</h2>
     <div class="contact-info">
-      <p>📧 Email: nordikimportal@gmail.com</p>
+      <p>📧 Email: nordicimportal@gmail.com</p>
       <p>📞 Telefon: +355 XX XXX XXXX</p>
     </div>
   </section>
 
   <footer>
-    <p>&copy; 2025 NORDIK IMPORT AL. Të gjitha të drejtat e rezervuara.</p>
+    <p>&copy; 2025 NORDIC IMPORT AL. Të gjitha të drejtat e rezervuara.</p>
   </footer>
 
   <!-- Modal -->
